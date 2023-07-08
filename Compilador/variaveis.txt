@@ -1,0 +1,4 @@
+(3, 'inteiro') x
+(6, 'caracter') c
+(4, 'real') r
+(5, 'logico') b
